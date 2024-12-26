@@ -1,5 +1,5 @@
 import React from 'react'
-import Environment from './Components/Environment'
+import Environment from './Components/Scene'
 
 const App = () => {
   return (
