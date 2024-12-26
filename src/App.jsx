@@ -1,11 +1,10 @@
 import React from 'react'
+import Environment from './Components/Environment'
 
 const App = () => {
   return (
-    <div>
-        <h1 className="text-3xl font-bold underline">
-            Hello world!
-        </h1>
+    <div className="h-dvh">
+        <Environment />
     </div>
   )
 }
